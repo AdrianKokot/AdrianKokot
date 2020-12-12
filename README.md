@@ -7,7 +7,7 @@
 
 <br>
 
-[![Adrian Kokot's github stats](https://github-readme-stats.vercel.app/api?username=adriankokot&hide=stars,prs,issues,contribs&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Adrian Kokot's github stats](https://github-readme-stats.vercel.app/api?username=adriankokot&hide=stars,prs,issues,contribs&count_private=true&hide_rank=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages / tools:
 
