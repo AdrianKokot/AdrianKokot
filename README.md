@@ -5,10 +5,6 @@
 - :books: I’m currently learning **Angular** and **C#**
 - :musical_note: I also play guitar - check my covers on [youtube][youtube]
 
-<br>
-
-[![Adrian Kokot's github stats](https://github-readme-stats.vercel.app/api?username=adriankokot&hide=stars,prs,issues,contribs&count_private=true&hide_rank=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages / tools:
 
 <img align="left" alt="HTML5" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
