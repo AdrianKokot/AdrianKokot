@@ -1,6 +1,5 @@
 ### Hi there, I'm Adrian :wave:
 
-### I'm self-taught web developer
 - :trophy: You can check my commercial and non-commercial projects on my [website][website]
 - :books: I’m currently learning **C#**
 - :musical_note: I also play guitar - check my covers on [youtube][youtube]
